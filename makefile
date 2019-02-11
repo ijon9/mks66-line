@@ -1,4 +1,4 @@
-run: main.py
+all: main.py
 	python main.py
 
 clean:
